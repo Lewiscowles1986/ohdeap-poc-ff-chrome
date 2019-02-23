@@ -1,4 +1,7 @@
-# ohdear-poc-ff-chrome
+# Deprecated: ohdear-poc-ff-chrome
+
+> This is now available from the people running ohdear, using this repo as a base [here](https://github.com/ohdearapp/chrome-extension) :smile: 
+> Ohdear has a long history as do it's owner(s) of OpenSource so hopefully they have this and can take it from here.
 
 Firefox &amp; Chrome addon to give bookmarklet functionality using browser API's
 
